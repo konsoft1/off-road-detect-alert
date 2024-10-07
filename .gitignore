@@ -1,0 +1,4 @@
+.env
+yolo*.pt
+input*.mp4
+out*.mp4
