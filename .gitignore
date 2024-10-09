@@ -1,4 +1,14 @@
+# setting files
 .env
+main.spec
+
+# generated files
 yolo*.pt
+
+# resource files
 input*.mp4
 out*.mp4
+
+# build files
+/build
+/dist
